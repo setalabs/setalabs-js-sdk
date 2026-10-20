@@ -1,0 +1,10 @@
+src/
+tests/
+.idea/
+.vscode/
+.cursor/
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+*.tsbuildinfo
+coverage/
